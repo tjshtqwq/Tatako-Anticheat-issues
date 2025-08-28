@@ -18,12 +18,13 @@ about: Tatako Generic issues
 ### 请详细描述你的问题。
 ### 支持中文或英文。
 
-- [ ] Tatako is up-to-date
-- [ ] Tatako is running on a 1.8 ~ 1.12.2 spigot server.
-- [ ] No plugins are incompatible with Tatako.
-- [ ] The issue happens with default config.yml
+# Please Check 请检查：
+- [ ] Tatako is up-to-date Tatako是最新的
+- [ ] Tatako is running on a 1.8 ~ 1.12.2 spigot server. Tatako运行于1.8 ~ 1.12.2的Spigot服务器上
+- [ ] No plugins are incompatible with Tatako. 没有不兼容的差距
+- [ ] The issue happens with default config.yml 默认配置仍复现
 
-# Bypass
+# Bypass 如果
 **Server Version**
 **Client Version**
 **Hacked Client**
@@ -32,9 +33,9 @@ about: Tatako Generic issues
 **What check bypassed**
 **Video for bypass**
 
-# False Flag
-- [ ] Using closed-source client (lunar,badlion,etc.) or optifine fastmath?
-- [ ] Special gameplay plugin?
+# False Flag 误判
+- [ ] Using closed-source client (lunar,badlion,etc.) or optifine fastmath? 使用闭源客户端（例如Lunar Badlion等），或开启了Optifine的FastMath？
+- [ ] Special gameplay plugin (MCMMO, etc.)? 特殊的玩法插件（例如 MCMMO）
 **Server Version**
 **Client Version**
 **Client used**
@@ -43,8 +44,8 @@ about: Tatako Generic issues
 **Video for false flag**
 
 # Bug
-- [ ] Using closed-source server?
-- [ ] Using special/private server?
+- [ ] Using closed-source server? 使用闭源服务端？
+- [ ] Using special/private server? 使用特殊/私有服务端？
 **Server Version**
 **Plugin List**
 **Full server log and tatako log**
