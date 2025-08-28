@@ -10,7 +10,7 @@ about: Tatako Generic issues
 ### Both need：Tatako Version, Minecraft Server Version, Server Core (e.g. PaperSpigot)
 ### Please Describe your issue.
 ### Supported Chinese or English.
-## Tatako 问题追踪器
+# Tatako 问题追踪器
 ### 请务必选择问题标签！
 ### 绕过或误判：需要Tatako日志和视频
 ### 错误或Bug：需要服务器日志，Tatako日志和视频
@@ -24,7 +24,7 @@ about: Tatako Generic issues
 - [ ] No plugins are incompatible with Tatako. 没有不兼容的差距
 - [ ] The issue happens with default config.yml 默认配置仍复现
 
-# Bypass 如果
+# Bypass 绕过
 **Server Version**
 **Client Version**
 **Hacked Client**
