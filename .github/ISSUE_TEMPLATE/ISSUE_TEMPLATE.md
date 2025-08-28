@@ -25,6 +25,8 @@ about: Tatako Generic issues
 - [ ] The issue happens with default config.yml 默认配置仍复现
 
 # Bypass 绕过
+
+
 **Server Version**
 **Client Version**
 **Hacked Client**
