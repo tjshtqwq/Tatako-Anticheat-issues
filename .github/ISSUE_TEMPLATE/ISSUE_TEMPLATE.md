@@ -24,30 +24,70 @@ about: Tatako Generic issues
 - [ ] No plugins are incompatible with Tatako. 没有不兼容的差距
 - [ ] The issue happens with default config.yml 默认配置仍复现
 
+
+
 # Bypass 绕过
-</br>
 **Server Version**
+
+
 **Client Version**
+
+
 **Hacked Client**
+
+
 **Hacked Client is private?**
+
+
 **Plugin List**
+
+
 **What check bypassed**
+
+
 **Video for bypass**
+
+
+
 
 # False Flag 误判
 - [ ] Using closed-source client (lunar,badlion,etc.) or optifine fastmath? 使用闭源客户端（例如Lunar Badlion等），或开启了Optifine的FastMath？
 - [ ] Special gameplay plugin (MCMMO, etc.)? 特殊的玩法插件（例如 MCMMO）
+
+
 **Server Version**
+
+
 **Client Version**
+
+
 **Client used**
+
+
 **Plugin List**
+
+
 **Check alerts and information (Tatako.log best)**
+
+
 **Video for false flag**
+
+
 
 # Bug
 - [ ] Using closed-source server? 使用闭源服务端？
 - [ ] Using special/private server? 使用特殊/私有服务端？
+
+
 **Server Version**
+
+
 **Plugin List**
+
+
 **Full server log and tatako log**
+
+
 **Full stackTrace**
+
+
