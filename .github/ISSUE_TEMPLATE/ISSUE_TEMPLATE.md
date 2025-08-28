@@ -3,7 +3,7 @@ name: Tatako Generic Issue
 about: Tatako Generic issues
 ---
 
-## Tatako Issue
+# Tatako Issue
 ### PLEASE SELECT ISSUE LABEL!
 ### Bypassed Or False Flags: Need TatakoLogs and Video
 ### Error or Bugs: Need ServerLogs, TatakoLogs, and Video
