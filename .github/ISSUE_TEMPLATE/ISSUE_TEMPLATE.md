@@ -18,6 +18,9 @@ about: Tatako Generic issues
 ### 请详细描述你的问题。
 ### 支持中文或英文。
 
+`Change - [ ] to - [X] to check the checkboxes below.`
+`将 - [ ] 改成 - [X] 让复选框勾选`
+
 # Please Check 请检查：
 - [ ] Tatako is up-to-date Tatako是最新的
 - [ ] Tatako is running on a 1.8 ~ 1.12.2 spigot server. Tatako运行于1.8 ~ 1.12.2的Spigot服务器上
