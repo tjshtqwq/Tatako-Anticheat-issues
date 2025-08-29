@@ -24,7 +24,7 @@ about: Tatako Generic issues
 # Please Check 请检查：
 - [ ] Tatako is up-to-date Tatako是最新的
 - [ ] Tatako is running on a 1.8 ~ 1.12.2 spigot server. Tatako运行于1.8 ~ 1.12.2的Spigot服务器上
-- [ ] No plugins are incompatible with Tatako. 没有不兼容的差距
+- [ ] No plugins are incompatible with Tatako. 没有不兼容的插件
 - [ ] The issue happens with default config.yml 默认配置仍复现
 
 
