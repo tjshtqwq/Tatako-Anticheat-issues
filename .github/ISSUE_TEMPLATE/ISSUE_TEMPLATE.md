@@ -5,7 +5,7 @@ about: Tatako Generic issues
 
 # Tatako Issue
 ### PLEASE SELECT ISSUE LABEL!
-### Bypassed Or False Flags: Need TatakoLogs and Video
+### Bypasses Or False Flags: Need TatakoLogs and Video
 ### Error or Bugs: Need ServerLogs, TatakoLogs, and Video
 ### Both need：Tatako Version, Minecraft Server Version, Server Core (e.g. PaperSpigot)
 ### Please Describe your issue.
