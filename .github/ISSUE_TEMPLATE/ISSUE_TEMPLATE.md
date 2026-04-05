@@ -57,6 +57,8 @@ about: Tatako Generic issues
 **Video for bypass 绕过视频**
 
 
+**Check alerts and information (Using Tatako.log) Tatako警报和信息（使用Tatako.log）**
+
 
 
 # False Flag 误判
