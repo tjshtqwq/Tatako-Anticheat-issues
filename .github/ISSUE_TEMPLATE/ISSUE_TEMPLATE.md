@@ -48,7 +48,7 @@ about: Tatako Generic issues
 **Hacked Client 作弊客户端名称**
 
 
-**Hacked Client is private? 作弊客户端是否私有**
+**Is this Hacked Client private? 作弊客户端是否私有**
 
 
 **What check bypassed 绕过了什么**
