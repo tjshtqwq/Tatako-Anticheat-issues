@@ -14,7 +14,7 @@ about: Tatako Generic issues
 ### 请务必选择问题标签！
 ### 绕过或误判：需要Tatako日志和视频
 ### 错误或Bug：需要服务器日志，Tatako日志和视频
-### 都需要：Tatako版本号，MC服务器版本，MC服务器核心名称
+### 都需要：Tatako版本号，MC服务器版本，MC服务器核心名称（例如PaperSpigot）
 ### 请详细描述你的问题。
 ### 支持中文或英文。
 
@@ -23,7 +23,7 @@ about: Tatako Generic issues
 
 # Please Check 请检查：
 - [ ] Tatako is up-to-date Tatako是最新的
-- [ ] Tatako is running on a 1.8 ~ 1.12.2 spigot server. Tatako运行于1.8 ~ 1.12.2的Spigot服务器上
+- [ ] Tatako is running on a 1.8 ~ 1.21.4 spigot server. Tatako运行于1.8 ~ 1.21.4的Spigot服务器上
 - [ ] No plugins are incompatible with Tatako. 没有不兼容的插件
 - [ ] The issue happens with default config.yml 默认配置仍复现
 
